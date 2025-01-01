@@ -1,1 +1,1 @@
-# -Image-Compression-for-Machine
+# Image Compression for Machine
